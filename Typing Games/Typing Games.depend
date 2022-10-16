@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1548235195 source:c:\users\code-marshal\desktop\typing games\main.c
+	<time.h>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<dos.h>
+	<stdlib.h>
+
